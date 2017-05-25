@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Koa=require("koa")
 const logger=require("koa-logger")
 const router=require("koa-route")
