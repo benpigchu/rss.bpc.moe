@@ -1,0 +1,1 @@
+module.exports={zhuanlan:require("./platform/zhuanlan.js")}
